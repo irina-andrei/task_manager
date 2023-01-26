@@ -1,0 +1,5 @@
+max, Check statements, Take each statement one by one and double check figures., 26 Dec 2022, 29 Dec 2022, No
+coco, Register Users with task_manager.py, Use task_manager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, Yes
+roger, Assign initial tasks, Use task_manager.py to assign each team member with appropriate tasks, 10 Oct 2019, 7 Mar 2023, No
+coco, Make progress with report, Try to get more details and figure out remaining stats, 30 Dec 2022, 6 Jan 2023, No
+admin, Count stock, Count all stock in the warehouse and write down any missing items, 24 Dec 2022, 23 Dec 2022, No

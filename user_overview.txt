@@ -1,0 +1,44 @@
+The total number of users registered: 6
+The total number of tasks: 5
+
+	== Statistics for 'admin' ==
+The number of tasks assigned: 1
+Tasks assigned compared to total nr tasks: 20%
+Percentage of tasks completed: 0%
+Percentage of tasks uncompleted: 100%
+Percentage of tasks overdue: 100%
+
+	== Statistics for 'mandy' ==
+The number of tasks assigned: 0
+Tasks assigned compared to total nr tasks: 0%
+Percentage of tasks completed: 0%
+Percentage of tasks uncompleted: 0%
+Percentage of tasks overdue: 0%
+
+	== Statistics for 'coco' ==
+The number of tasks assigned: 2
+Tasks assigned compared to total nr tasks: 40%
+Percentage of tasks completed: 50%
+Percentage of tasks uncompleted: 50%
+Percentage of tasks overdue: 0%
+
+	== Statistics for 'timmy' ==
+The number of tasks assigned: 0
+Tasks assigned compared to total nr tasks: 0%
+Percentage of tasks completed: 0%
+Percentage of tasks uncompleted: 0%
+Percentage of tasks overdue: 0%
+
+	== Statistics for 'roger' ==
+The number of tasks assigned: 1
+Tasks assigned compared to total nr tasks: 20%
+Percentage of tasks completed: 0%
+Percentage of tasks uncompleted: 100%
+Percentage of tasks overdue: 0%
+
+	== Statistics for 'max' ==
+The number of tasks assigned: 1
+Tasks assigned compared to total nr tasks: 20%
+Percentage of tasks completed: 0%
+Percentage of tasks uncompleted: 100%
+Percentage of tasks overdue: 100%
